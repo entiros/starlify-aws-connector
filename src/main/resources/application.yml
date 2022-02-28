@@ -1,0 +1,5 @@
+aws:
+  server:
+    url: https://apigateway.us-east-1.amazonaws.com
+starlify:
+  url: https://api.starlify.com
