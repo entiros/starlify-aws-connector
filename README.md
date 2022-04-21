@@ -29,7 +29,7 @@ mvn clean spring-boot:run
 ```
 
 ## Import AWS API Gateway details to Starlify
-Use below endpoint to start importing api details to starlify as services, systems and flows
+Use the endpoint below to start importing API details to Starlify as systems and services:
 
 ```
 Method : POST
